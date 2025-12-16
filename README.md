@@ -6,4 +6,4 @@ Este repositório contém a entrega final da disciplina Sistemas Distribuídos, 
 
 📁 artigo/
 
-Este diretório contém o artigo principal do estudo de caso, em formato PDF.
+Este diretório contém o artigo do estudo de caso, em formato PDF.
